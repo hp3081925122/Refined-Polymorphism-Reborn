@@ -1,0 +1,15 @@
+{
+  "name": "Refined Polymorphism Reborn",
+  "summary": "Unofficial NeoForge port of Refined Polymorphism by 90. Use Polymorph to pick conflicting recipes in Refined Storage crafting grids and pattern grids.",
+  "license": "Lesser General Public License version 3",
+  "distribution": "Allow distribution to 3rd party",
+  "allowComments": true,
+  "dropdowns": [
+    ["Class", "Mods"],
+    ["Main category", "Technology"],
+    ["Additional categories", "Addons"],
+    ["Additional categories", "API and Library"]
+  ],
+  "description": "description.md",
+  "icon": "cf-project-icon.png"
+}

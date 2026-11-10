@@ -1,0 +1,19 @@
+{
+  "minVersion": "0.8.5",
+  "required": true,
+  "package": "gripe._90.refinedpolymorph.mixin",
+  "plugin": "gripe._90.refinedpolymorph.mixin.Plugin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "AbstractCraftingGridMenuAccess",
+    "CraftingGridBlockEntityMixin",
+    "PatternGridBlockEntityMixin",
+    "PatternGridMenuAccess",
+    "PatternResolverMixin",
+    "RecipeMatrixMixin",
+    "WirelessCraftingGridMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
